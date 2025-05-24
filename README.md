@@ -1,3 +1,11 @@
+The [`access_news` branch](https://github.com/access-news/freeswitch/tree/access_news) is an experiment to make the FreeSWITCH code base easier to understand.
+
+For starters, the project root now has a Doxygen configuration file (i.e., `Doxyfile`) to generate documentation from the source code (see instructions [here][doxygen_instructions]), but a lot of the code still lacks documentation.
+
+[doxygen_instructions]: https://toraritte.github.io/posts/2025-05-14-generate-freeswitch-docs-with-doxygen.html
+
+---
+
 # FreeSWITCH
 
 FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device. Combined with our hosted cloud platform, SignalWire, FreeSWITCH can interconnect with the outside world and scale to any size.
